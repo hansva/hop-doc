@@ -1,0 +1,5 @@
+name: Contribution Guide
+title: Contribution Guide
+version: latest
+nav:
+- src/main/asciidoc/contribution-overview.adoc
